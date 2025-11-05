@@ -3,7 +3,7 @@
 
 Graduado em Marketing, estudando programação e evoluindo em projetos práticos. Sempre com foco em aprendizado contínuo.
 
----
+
 
 ## 🧪 Tecnologias & Ferramentas
 
@@ -38,7 +38,7 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
 <br/>
 <br/>
 
----
+
 
 ## 🤝 Contatos
 
@@ -52,7 +52,7 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
   </a>
 </div>
 
----
+
 
 ## 📊 Métricas
 

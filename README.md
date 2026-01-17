@@ -63,14 +63,6 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
 
 ## 📊 Métricas
 
-<div align="left">
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezlucas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="languages graph" />
-
-</div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg">

@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu perfil  
+# 👋 Olá, eu sou André Lucas. Seja bem-vindo(a) ao meu perfil no GitHub!
 **André Lucas**
 
 Graduado em Marketing, estudando programação e evoluindo em projetos práticos. Sempre com foco em aprendizado contínuo.

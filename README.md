@@ -60,9 +60,6 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
 </div>
 
 
-
-## 📊 Métricas
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg">

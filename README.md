@@ -20,7 +20,12 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
   style="padding-right: 12px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
 />
-
+<img 
+  align="left" 
+  width="32px" 
+  style="padding-right: 12px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
+/>
 <img 
   align="left" 
   width="32px" 

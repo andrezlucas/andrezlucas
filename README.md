@@ -24,7 +24,7 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
   align="left" 
   width="32px" 
   style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  src="https://www.svgrepo.com/show/373931/node2.svg" 
 />
 <img 
   align="left" 

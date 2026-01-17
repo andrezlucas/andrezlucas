@@ -65,7 +65,6 @@ Graduado em Marketing, estudando programação e evoluindo em projetos práticos
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=andrezlucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="stats graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezlucas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="languages graph" />
 

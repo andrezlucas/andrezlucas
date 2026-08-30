@@ -1,78 +1,32 @@
-# 👋 Olá, eu sou André Lucas. Seja bem-vindo(a) ao meu perfil!
-**André Lucas**
+# 👋 Olá, eu sou André Lucas
 
-Graduado em Marketing, estudando programação e evoluindo em projetos práticos. Sempre com foco em aprendizado contínuo.
+**Analista de Dados**
 
+Graduado em Marketing pela UNIBRA e estudante de Técnico em Informática para Internet pelo SENAI. Atualmente desenvolvo conhecimentos em Análise de Dados, com foco em SQL, Python e visualização de dados, enquanto também aprofundo meus conhecimentos em desenvolvimento de software.
 
+## 📊 Data & Analytics
 
-## 🧪 Tecnologias & Ferramentas
+SQL • Python • Pandas • Power BI
 
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+## 💻 Development
 
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-/>
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+JavaScript • TypeScript • Node.js • NestJS • HTML • CSS
 
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+## 🗄️ Databases
 
-<img 
-  align="left" 
-  width="32px" 
-  style="padding-right: 12px;" 
-  src="https://cdn.simpleicons.org/github/ffffff" 
-/>
+MySQL • SQLite • DuckDB
 
-<br/>
-<br/>
+## 🛠️ Tools
 
+Git • GitHub • Jupyter Notebook • Google Colab
 
+## 📚 Atualmente estudando
+
+* Análise de Dados
+* SQL
+* Desenvolvimento Web
+* Inteligência Artificial e Machine Learning
 
 ## 🤝 Contatos
 
-<div style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/andrezlucas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-
-   <a href="https://github.com/andrezlucas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg">
-</picture>
+[LinkedIn](https://www.linkedin.com/in/andrezlucas/) • [E-mail profissional](mailto:andrelucasct@gmail.com)

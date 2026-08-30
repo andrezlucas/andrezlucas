@@ -6,7 +6,7 @@ Graduado em Marketing pela UNIBRA e estudante de Técnico em Informática para I
 
 ## 📊 Dados & Analytics
 
-SQL • Python • Pandas • Power BI
+SQL • Python • Power BI • Excel • Pandas
 
 ## 💻 Desenvolvimento
 

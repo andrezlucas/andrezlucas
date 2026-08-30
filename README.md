@@ -29,4 +29,14 @@ Git • GitHub • Jupyter Notebook • Google Colab
 
 ## 🤝 Contatos
 
-[LinkedIn](https://www.linkedin.com/in/andrezlucas/) • [E-mail profissional](mailto:andrelucasct@gmail.com)
+<div style="display: flex; align-items: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/andrezlucas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:andrelucasct@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  </a>
+</div>
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrezlucas/andrezlucas/output/github-contribution-grid-snake.svg"> </picture>

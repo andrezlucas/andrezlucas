@@ -4,19 +4,19 @@
 
 Graduado em Marketing pela UNIBRA e estudante de Técnico em Informática para Internet pelo SENAI. Atualmente desenvolvo conhecimentos em Análise de Dados, com foco em SQL, Python e visualização de dados, enquanto também aprofundo meus conhecimentos em desenvolvimento de software.
 
-## 📊 Data & Analytics
+## 📊 Dados & Analytics
 
 SQL • Python • Pandas • Power BI
 
-## 💻 Development
+## 💻 Desenvolvimento
 
 JavaScript • TypeScript • Node.js • NestJS • HTML • CSS
 
-## 🗄️ Databases
+## 🗄️ Bancos de Dados
 
 MySQL • SQLite • DuckDB
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
 Git • GitHub • Jupyter Notebook • Google Colab
 
